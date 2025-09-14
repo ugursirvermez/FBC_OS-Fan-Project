@@ -29,7 +29,7 @@ It is both a **playable lore archive** and an **interactive fan experiment**. **
 ---
 ## 🗂️ Project Organization
 
-- **app.py** → Main entry point  
+- **main.py** → Main entry point  
 - **settings.py** → Global configuration (fullscreen, CRT alpha, etc.)  
 - **scenes/** → Menu, documents, audio, maps, Oceanview, etc.  
 - **overlays/** → Ahti, Threshold, Decrypt overlays  
