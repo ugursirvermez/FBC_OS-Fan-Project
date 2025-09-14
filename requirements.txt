@@ -1,0 +1,6 @@
+pygame>=2.5.0
+pymupdf>=1.24.0
+opencv-python>=4.9.0.80
+mutagen>=1.47.0
+imageio-ffmpeg>=0.4.9
+pyfiglet>=1.0.2
